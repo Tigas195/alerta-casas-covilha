@@ -1,0 +1,138 @@
+{
+ "alertados": {
+  "imovirtual:19167480": {
+   "quando": "2026-07-16T14:53:38",
+   "titulo": "Moradia em Banda T4 / Covilhã, Covilhã",
+   "preco": 195600
+  },
+  "imovirtual:19198416": {
+   "quando": "2026-07-16T14:53:38",
+   "titulo": "Moradia T4 Venda em Tortosendo,Covilhã",
+   "preco": 150000
+  },
+  "imovirtual:19185132": {
+   "quando": "2026-07-16T14:53:38",
+   "titulo": "Moradia T4 no Centro da Covilhã perto da universidade- Excelente Op...",
+   "preco": 195000
+  },
+  "imovirtual:18903707": {
+   "quando": "2026-07-16T14:53:38",
+   "titulo": "Moradia para restauro na Covilhã",
+   "preco": 189000
+  },
+  "imovirtual:17841808": {
+   "quando": "2026-07-16T14:53:38",
+   "titulo": "Moradia Covilhã 20 minutos Serra da Estrela acabe ao seu gosto",
+   "preco": 206100
+  },
+  "casasapo:4f5a0804-5e9c-11f1-ba38-060000000058": {
+   "quando": "2026-07-16T14:53:38",
+   "titulo": "Apartamento T4",
+   "preco": 198000
+  }
+ },
+ "cache_detalhes": {
+  "imovirtual:19179122": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:18863158": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19175902": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19182515": {
+   "casas_banho": 1,
+   "ano": 1988,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19175054": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": true,
+   "obra_nova": false
+  },
+  "imovirtual:19167486": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19155424": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19154509": {
+   "casas_banho": null,
+   "ano": 2009,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19078567": {
+   "casas_banho": 2,
+   "ano": 1973,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19167480": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:19198416": {
+   "casas_banho": 3,
+   "ano": 2018,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:19185132": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:19132215": {
+   "casas_banho": 2,
+   "ano": 1984,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:18903707": {
+   "casas_banho": 3,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:17841808": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "casasapo:4f5a0804-5e9c-11f1-ba38-060000000058": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "casasapo:521a7069-6b30-11f1-bc59-060000000052": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  }
+ }
+}

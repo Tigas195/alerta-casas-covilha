@@ -1,0 +1,23 @@
+{
+  "email": {
+    "remetente": "tiagofonseca200319@gmail.com",
+    "app_password": "COLOCA_AQUI_A_APP_PASSWORD",
+    "destinatario": "tiagofonseca200319@gmail.com"
+  },
+  "filtros": {
+    "preco_min": 130000,
+    "preco_max": 210000,
+    "tipologia_min": 3,
+    "casas_banho_min": 2,
+    "idade_max_anos": 20,
+    "elevador_obrigatorio_apartamento": true,
+    "incluir_dados_em_falta": true,
+    "zonas": [
+      "Covilhã e Canhoso",
+      "Canhoso",
+      "Tortosendo",
+      "Boidobra",
+      "Refúgio"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+name: Alerta de casas Covilhã
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 09:00 em Portugal (hora de verão, UTC+1)
+  workflow_dispatch: {}     # permite correr manualmente a partir do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  alerta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Preparar configuração
+        run: cp config.example.json config.json
+
+      - name: Correr o alerta
+        env:
+          GMAIL_REMETENTE: ${{ secrets.GMAIL_REMETENTE }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO }}
+        run: python alerta_casas.py
+
+      - name: Guardar o estado (anúncios já alertados)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add estado.json
+          git diff --cached --quiet || git commit -m "Atualiza estado dos alertas"
+          git push
