@@ -150,6 +150,12 @@
    "ano": null,
    "elevador": null,
    "obra_nova": false
+  },
+  "imovirtual:19047577": {
+   "casas_banho": 3,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
   }
  }
 }
