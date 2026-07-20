@@ -34,6 +34,21 @@
    "quando": "2026-07-17T09:59:47",
    "titulo": "Moradia em Banda T4 / Covilhã, Covilhã",
    "preco": 195600
+  },
+  "imovirtual:19216101": {
+   "quando": "2026-07-20T10:54:40",
+   "titulo": "T3 Moderno com garagem fechada",
+   "preco": 198500
+  },
+  "imovirtual:19216097": {
+   "quando": "2026-07-20T10:54:40",
+   "titulo": "Andar de Moradia independente com garagem",
+   "preco": 169000
+  },
+  "imovirtual:91921609700067": {
+   "quando": "2026-07-20T10:54:40",
+   "titulo": "Andar de Moradia independente com garagem",
+   "preco": 169000
   }
  },
  "cache_detalhes": {
@@ -161,6 +176,24 @@
    "casas_banho": 2,
    "ano": null,
    "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19216101": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": true,
+   "obra_nova": false
+  },
+  "imovirtual:19216097": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:91921609700067": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": null,
    "obra_nova": false
   }
  }
