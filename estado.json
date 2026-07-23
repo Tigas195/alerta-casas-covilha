@@ -49,6 +49,11 @@
    "quando": "2026-07-20T10:54:40",
    "titulo": "Andar de Moradia independente com garagem",
    "preco": 169000
+  },
+  "imovirtual:19218749": {
+   "quando": "2026-07-23T10:24:52",
+   "titulo": "Moradia T3 Remodelada - Centro da Boidobra - Covilhã",
+   "preco": 149000
   }
  },
  "cache_detalhes": {
@@ -192,6 +197,18 @@
   },
   "imovirtual:91921609700067": {
    "casas_banho": 2,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:91917590200067": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19218749": {
+   "casas_banho": 3,
    "ano": null,
    "elevador": null,
    "obra_nova": false
