@@ -212,6 +212,24 @@
    "ano": null,
    "elevador": null,
    "obra_nova": false
+  },
+  "imovirtual:19222546": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19222459": {
+   "casas_banho": 2,
+   "ano": 1987,
+   "elevador": true,
+   "obra_nova": false
+  },
+  "imovirtual:91922254600067": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
   }
  }
 }
