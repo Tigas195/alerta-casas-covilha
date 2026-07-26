@@ -230,6 +230,12 @@
    "ano": null,
    "elevador": false,
    "obra_nova": false
+  },
+  "imovirtual:18771058": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
   }
  }
 }
