@@ -54,6 +54,11 @@
    "quando": "2026-07-23T10:24:52",
    "titulo": "Moradia T3 Remodelada - Centro da Boidobra - Covilhã",
    "preco": 149000
+  },
+  "imovirtual:19222460": {
+   "quando": "2026-07-30T10:31:55",
+   "titulo": "Prédio com 6 Utilizações Independentes no Centro do Tortosendo",
+   "preco": 178000
   }
  },
  "cache_detalhes": {
@@ -235,6 +240,12 @@
    "casas_banho": null,
    "ano": null,
    "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19222460": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": null,
    "obra_nova": false
   }
  }
