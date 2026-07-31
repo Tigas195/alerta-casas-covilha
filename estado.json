@@ -59,6 +59,11 @@
    "quando": "2026-07-30T10:31:55",
    "titulo": "Prédio com 6 Utilizações Independentes no Centro do Tortosendo",
    "preco": 178000
+  },
+  "imovirtual:19229162": {
+   "quando": "2026-07-31T10:40:48",
+   "titulo": "Moradia em Banda V3 - Tortosendo, Covilhã",
+   "preco": 164000
   }
  },
  "cache_detalhes": {
@@ -245,6 +250,18 @@
   "imovirtual:19222460": {
    "casas_banho": null,
    "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:19088703": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19229162": {
+   "casas_banho": 2,
+   "ano": 2012,
    "elevador": null,
    "obra_nova": false
   }
