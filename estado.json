@@ -64,6 +64,11 @@
    "quando": "2026-07-31T10:40:48",
    "titulo": "Moradia em Banda V3 - Tortosendo, Covilhã",
    "preco": 164000
+  },
+  "imovirtual:18992380": {
+   "quando": "2026-08-05T10:36:38",
+   "titulo": "Andar Moradia T3 na Covilhã",
+   "preco": 200000
   }
  },
  "cache_detalhes": {
@@ -262,6 +267,12 @@
   "imovirtual:19229162": {
    "casas_banho": 2,
    "ano": 2012,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:18992380": {
+   "casas_banho": 2,
+   "ano": null,
    "elevador": null,
    "obra_nova": false
   }
