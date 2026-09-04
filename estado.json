@@ -74,6 +74,11 @@
    "quando": "2026-08-20T08:45:15",
    "titulo": "Moradia em Banda V3 - Tortosendo, Covilhã",
    "preco": 164000
+  },
+  "casasapo:b6c2e811-e443-11f0-b3d3-060000000057": {
+   "quando": "2026-09-04T12:34:29",
+   "titulo": "Andar de Moradia T3",
+   "preco": 200000
   }
  },
  "cache_detalhes": {
@@ -309,6 +314,12 @@
    "casas_banho": 2,
    "ano": null,
    "elevador": false,
+   "obra_nova": false
+  },
+  "casasapo:b6c2e811-e443-11f0-b3d3-060000000057": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": null,
    "obra_nova": false
   }
  }
