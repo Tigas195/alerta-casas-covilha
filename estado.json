@@ -84,6 +84,16 @@
    "quando": "2026-09-07T14:03:16",
    "titulo": "Andar de Moradia T3",
    "preco": 200000
+  },
+  "imovirtual:19282416": {
+   "quando": "2026-09-21T15:00:16",
+   "titulo": "Quinta T3 - Covelo, Covilhã",
+   "preco": 200000
+  },
+  "imovirtual:91928241600067": {
+   "quando": "2026-09-21T15:00:16",
+   "titulo": "Quinta T3 - Covelo, Covilhã",
+   "preco": 200000
   }
  },
  "cache_detalhes": {
@@ -367,6 +377,18 @@
    "casas_banho": null,
    "ano": 2009,
    "elevador": false,
+   "obra_nova": false
+  },
+  "imovirtual:19282416": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:91928241600067": {
+   "casas_banho": 2,
+   "ano": null,
+   "elevador": null,
    "obra_nova": false
   }
  }
