@@ -431,6 +431,12 @@
    "ano": 1984,
    "elevador": true,
    "obra_nova": false
+  },
+  "imovirtual:9000062218": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
   }
  }
 }
