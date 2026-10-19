@@ -99,6 +99,11 @@
    "quando": "2026-09-24T13:22:17",
    "titulo": "Apartamento T3",
    "preco": 180000
+  },
+  "imovirtual:9000062236": {
+   "quando": "2026-10-19T15:23:46",
+   "titulo": "Apartamento T3 / Covilhã, Covilhã",
+   "preco": 195000
   }
  },
  "cache_detalhes": {
@@ -440,6 +445,12 @@
   },
   "imovirtual:9000062233": {
    "casas_banho": 1,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:9000062236": {
+   "casas_banho": 2,
    "ano": null,
    "elevador": null,
    "obra_nova": false
