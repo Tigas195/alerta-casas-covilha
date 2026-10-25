@@ -114,6 +114,11 @@
    "quando": "2026-10-21T13:34:31",
    "titulo": "Apartamento T3 / Covilhã, Covilhã",
    "preco": 195000
+  },
+  "casasapo:b60673f1-aef6-11f1-9a8d-060000000057": {
+   "quando": "2026-10-25T13:02:56",
+   "titulo": "Apartamento T3",
+   "preco": 210000
   }
  },
  "cache_detalhes": {
@@ -475,6 +480,12 @@
    "casas_banho": 2,
    "ano": null,
    "elevador": null,
+   "obra_nova": false
+  },
+  "casasapo:b60673f1-aef6-11f1-9a8d-060000000057": {
+   "casas_banho": null,
+   "ano": null,
+   "elevador": true,
    "obra_nova": false
   }
  }
