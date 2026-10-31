@@ -487,6 +487,18 @@
    "ano": null,
    "elevador": true,
    "obra_nova": false
+  },
+  "imovirtual:19331867": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:9000062272": {
+   "casas_banho": 1,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
   }
  }
 }
