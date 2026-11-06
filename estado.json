@@ -119,6 +119,11 @@
    "quando": "2026-10-25T13:02:56",
    "titulo": "Apartamento T3",
    "preco": 210000
+  },
+  "imovirtual:9000062290": {
+   "quando": "2026-11-06T15:49:22",
+   "titulo": "Moradia em Banda T4 / Covilhã, Covilhã",
+   "preco": 195600
   }
  },
  "cache_detalhes": {
@@ -532,6 +537,12 @@
   },
   "imovirtual:9000062288": {
    "casas_banho": 1,
+   "ano": null,
+   "elevador": null,
+   "obra_nova": false
+  },
+  "imovirtual:9000062290": {
+   "casas_banho": 2,
    "ano": null,
    "elevador": null,
    "obra_nova": false
