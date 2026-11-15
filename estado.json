@@ -593,6 +593,12 @@
    "ano": 2005,
    "elevador": true,
    "obra_nova": false
+  },
+  "imovirtual:9000062317": {
+   "casas_banho": 2,
+   "ano": 2005,
+   "elevador": true,
+   "obra_nova": false
   }
  }
 }
